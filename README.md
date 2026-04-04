@@ -17,13 +17,13 @@ I specialize in transforming raw operational data into actionable business strat
 *   **The Problem:** Inconsistent production quality across three product lines (Soaps A, B, and C).
 *   **The Insight:** Identified an **85% defect rate** under a specific inspector and pinpointed **Soap C** as the most problematic product.
 *   **The Result:** Proposed a retraining program for staff and a replication of "Week 2" conditions to lower the **3.29% overall defect rate**.
-*   👉 **[Read the Full Quality Audit & Dashboard](https://github.com)**
+*   👉 **[Read the Full Quality Audit & Dashboard](https://github.com/Peace-Ada/Quality-Control-and-Production-Defect-Analysis.git)**
 
 #### 3. Hospital Operations & Patient Analytics
 *   **The Problem:** Managing clinical diversity and billing efficiency across multiple medical conditions.
 *   **The Insight:** Flagged **"Billing Uniformity"**—where complex treatments cost the same as simple ones—suggesting a potential loss in revenue or inefficient cost allocation.
 *   **The Result:** Recommended a shift toward **Resource-Based Billing** and rigorous clinical audits for broad-spectrum medication prescribing.
-*   👉 **[View Patient Analytics & Operational Strategy](https://github.com)**
+*   👉 **[View Patient Analytics & Operational Strategy](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics.git)**
 
 ---
 
@@ -35,6 +35,6 @@ I specialize in transforming raw operational data into actionable business strat
 ---
 
 ### 📬 Let's Connect!
-*   **LinkedIn:** [Your LinkedIn Profile Link]
+*   **LinkedIn:** [https://www.linkedin.com/in/peace-ada-95b341341?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 *   **Email:** [peaceada100@gmail.com]
 *
