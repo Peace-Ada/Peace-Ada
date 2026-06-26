@@ -1,4 +1,4 @@
-# Hi, I'm Peace Adaobi 👋
+# Hi, I'm Peace Adaobi 
 
 Data Analyst with a background in Pure & Applied Chemistry. I transitioned into data analytics because the part of science I enjoyed most was finding patterns in data and explaining what the numbers actually mean.
 
@@ -18,7 +18,7 @@ Over the past few months, I've completed end-to-end data analytics projects acro
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - SQL (MySQL)
 - Python
@@ -30,7 +30,7 @@ Over the past few months, I've completed end-to-end data analytics projects acro
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### [Financial Consumer Complaints Analysis](https://github.com/Peace-Ada/Financial-Consumer-Complaints-Analysis)
 
@@ -60,6 +60,6 @@ More projects: **https://www.datascienceportfol.io/PeaceAdaobi**
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Peace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peace-Ada&show_icons=true&theme=default&hide_title=true)
