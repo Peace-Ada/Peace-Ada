@@ -58,7 +58,3 @@ Analyzed **150 customer loan records** using Python to identify the factors asso
 More projects: **https://www.datascienceportfol.io/PeaceAdaobi**
 
 ---
-
-##  GitHub Stats
-
-![Peace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peace-Ada&show_icons=true&theme=default&hide_title=true)
