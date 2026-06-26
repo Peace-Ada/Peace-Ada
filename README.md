@@ -1,5 +1,7 @@
 # Hi, I'm Peace Adaobi 
 
+## About Me
+
 Data Analyst with a background in Pure & Applied Chemistry. I transitioned into data analytics because the part of science I enjoyed most was finding patterns in data and explaining what the numbers actually mean.
 
 Over the past few months, I've completed end-to-end data analytics projects across finance, transportation, lending, and retail—cleaning and analyzing more than **150,000 records**, building interactive dashboards, and translating data into actionable business recommendations.
@@ -18,15 +20,12 @@ Over the past few months, I've completed end-to-end data analytics projects acro
 
 ---
 
-##  Tools & Technologies
+## 🛠️ Technical Skills
 
-- SQL (MySQL)
-- Python
-- Power BI
-- Excel (Power Query & DAX)
-- Pandas
-- Matplotlib
-- Seaborn
+* SQL (MySQL)
+* Python
+* Power BI
+* Microsoft Excel (Power Query & DAX)
 
 ---
 
