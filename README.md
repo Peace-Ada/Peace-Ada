@@ -1,80 +1,65 @@
-# Hi, I'm Okedinachi Peace Adaobi
-Early-Career Data Analyst | Skilled in **Excel, Power BI, SQL, Python** | Transforming Data into Actionable Insight.
+# Hi, I'm Peace Adaobi 👋
 
+Data Analyst with a background in Pure & Applied Chemistry. I transitioned into data analytics because the part of science I enjoyed most was finding patterns in data and explaining what the numbers actually mean.
 
+Over the past few months, I've completed end-to-end data analytics projects across finance, transportation, lending, and retail—cleaning and analyzing more than **150,000 records**, building interactive dashboards, and translating data into actionable business recommendations.
 
-I am a data analytics enthusiast with a strong foundation in analytical thinking, problem-solving, and evidence-based decision making. I hold a degree in Pure and Applied Chemistry from Ladoke Akintola University of Technology (LAUTECH), where I developed skills in data collection, analysis, and interpretation.
+**Current Role:** Data Analytics Intern at Tech Studio Consult, where I build SQL databases, analyze data with Python, and develop interactive Power BI dashboards.
 
-Through hands-on projects and industry experience, I apply this analytical mindset to real-world datasets, uncovering patterns, generating insights, and communicating findings that support business and operational decisions.
+**Community:** Active member of the TDI Community, participating in rigorous project-based data analytics challenges covering real-world business problems.
+
+**Ask Me About:** SQL, Excel (Power Query & DAX), Power BI, Python, or my transition from chemistry to data analytics.
+
+**Connect:**
+
+* LinkedIn: https://www.linkedin.com/in/peaceadaobi-95b341341
+* Portfolio: https://www.datascienceportfol.io/PeaceAdaobi
+
 
 ---
 
-## 🚀What I Do
+## 🛠️ Tools & Technologies
 
-* Clean, transform, and prepare raw datasets for analysis
-
-* Conduct Exploratory Data Analysis (EDA) to uncover trends and patterns
-
-* Build interactive dashboards and visualizations for actionable insights
-
-* Translate analytical findings into operational or business recommendations.
-
----
-
-## 💼Professional Experience
-
-### Research & Development Intern
- **Hayat Kimya – Research & Development Department**|*[Jan 2025-Dec 2025]*
-
-During my internship, I worked on product performance evaluation and competitive analysis, contributing to data-driven decisions in product development.
-
-#### ✨Key Contributions
-
-* Analyzed product performance data to evaluate quality and efficiency
-
-* Conducted comparative analysis between company products and competitors
-
-* Assisted in testing and evaluating product formulations
-
-* Documented and interpreted results to support data-informed operational decisions
-
-* This experience strengthened my ability to analyze data, identify trends, and translate findings into actionable insights.
+- SQL (MySQL)
+- Python
+- Power BI
+- Excel (Power Query & DAX)
+- Pandas
+- Matplotlib
+- Seaborn
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-#### 1. H₂ Fuel Station: Sales & Performance Analysis
-*   **The Problem:** Station management needed to identify peak demand periods to optimize a slim **3.68% profit margin.**
-*   **The Insight:** Discovered that **Trucks** are the primary revenue driver, with a critical sales peak between **3 p.m. – 5 p.m.**
-*   **The Result:** Recommended a targeted "Truck-First" refueling strategy and identified **Pump 4** as a technical bottleneck.
-*   👉 **[View Full Insights & Sales Recommendations](https://github.com/Peace-Ada/H2-Fuel-Station-Sales-and-Performance-Analysis-2025-.git)**
+### [Financial Consumer Complaints Analysis](https://github.com/Peace-Ada/Financial-Consumer-Complaints-Analysis)
 
-#### 2. Quality Control & Production Defect Analysis
-*   **The Problem:** Inconsistent production quality across three product lines (Soaps A, B, and C).
-*   **The Insight:** Using **Excel Pivot Tables**, Identified an **85% defect rate** under a specific inspector and pinpointed **Soap C** as the most problematic product.
-*   **The Result:** Proposed a retraining program for staff and a replication of "Week 2" conditions to lower the **3.29% overall defect rate**.
-*   👉 **[Read the Full Quality Audit & Dashboard](https://github.com/Peace-Ada/Quality-Control-and-Production-Defect-Analysis.git)**
- 
-#### 3. [Hospital Operations & Patient Analytics](https://github.com)
-*   **The Problem:** Managing clinical diversity, billing efficiency, and medication protocols across patient demographics.
-*   **The Insight:** 
-    *   **Billing Uniformity:** Flagged that complex treatments cost the same as simple ones, suggesting inefficient cost allocation and potential revenue loss.
-    *   **Medication Overlap:** Discovered that only **6 core medications** were being rotated across all illnesses, suggesting a "one-size-fits-all" treatment protocol rather than specialized care.
-*   **The Result:** Recommended a shift toward **Resource-Based Billing** and a clinical audit to align hospital medication stock with specific diagnosis codes to improve patient safety.
-*   👉 **[View Patient Analytics & Operational Strategy](https://github.com/Peace-Ada/Hospital-Operations-and-Patient-Analytics.git)**
+Analyzed **75,513 CFPB consumer complaints (2011–2020)** and found that just **4 states accounted for 41% of national complaints**, tracing root causes to specific financial products and companies.
 
 ---
 
-### 🛠 My Toolkit
-*   **Analysis:** SQL, Power Query, Python, Excel (Advanced).
-*   **Visualization:** Power BI (Interactive Dashboards).
-*   **Specialty:** Root Cause Analysis, Process Optimization, Financial Trend Analysis, Data Cleaning.
-    
+### [UK Railway Station Operations & Performance Analysis](https://github.com/Peace-Ada/UK-Railway-Station-Operations-Performance-Analysis)
+
+Investigated delays and cancellations across **31,653 rail journeys** and **9 stations**, revealing that delays consistently peaked every **Wednesday between 8:00–9:00 AM**, indicating predictable demand-driven congestion rather than random system failures.
+
 ---
 
-## Let's Connect
+### [SQL Sales & Inventory Management System](https://github.com/Peace-Ada/Sales-Inventory-Management-System)
 
-**LinkedIn:**[Peace Ada](https://www.linkedin.com/in/peace-ada-95b341341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Designed and implemented a relational SQL database from scratch and developed **15+ business intelligence queries** to support sales reporting, inventory tracking, and business decision-making for a fictional retail company.
 
-**Email:** [peaceada100@gmail.com](mailto:peaceada100@gmail.com)
+---
+
+### [Loan Default Risk Analysis & Customer Segmentation](https://github.com/Peace-Ada/Loan-Risk-and-Customer-Default-Analysis)
+
+Analyzed **150 customer loan records** using Python to identify the factors associated with loan default risk. The analysis uncovered a **46.67% portfolio default rate**, revealed a **70-point credit score gap** between defaulters and non-defaulters, and segmented borrowers into risk categories to support better lending decisions.
+
+---
+
+More projects: **https://www.datascienceportfol.io/PeaceAdaobi**
+
+---
+
+## 📈 GitHub Stats
+
+![Peace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peace-Ada&show_icons=true&theme=default&hide_title=true)
