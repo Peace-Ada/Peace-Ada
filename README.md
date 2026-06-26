@@ -4,7 +4,7 @@
 
 Data Analyst with a background in Pure & Applied Chemistry. I transitioned into data analytics because the part of science I enjoyed most was finding patterns in data and explaining what the numbers actually mean.
 
-Over the past few months, I've completed end-to-end data analytics projects across finance, transportation, lending, and retail—cleaning and analyzing more than **150,000 records**, building interactive dashboards, and translating data into actionable business recommendations.
+Over the past few months, I've completed end-to-end data analytics projects across finance, transportation, lending, and retail. Cleaning and analyzing more than **150,000 records**, building interactive dashboards, and translating data into actionable business recommendations.
 
 **Current Role:** Data Analytics Intern at Tech Studio Consult, where I build SQL databases, analyze data with Python, and develop interactive Power BI dashboards.
 
@@ -20,7 +20,7 @@ Over the past few months, I've completed end-to-end data analytics projects acro
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 * SQL (MySQL)
 * Python
